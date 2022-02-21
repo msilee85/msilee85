@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer with a passion for problem solving and knowledge sharing as well as an experienced Project Manager with a demonstrated history of working in the biopharmaceutical industry. I am looking to take my skillset to the tech industry. Inspired by the impact tech companies have been able to make in a few decades to vastly improve people's quality of life, I'm excited to join the movement. 
+I'm a Software Engineer with a passion for problem solving and knowledge sharing as well as an experienced Project Manager with a demonstrated history of working in the biopharmaceutical industry. I am looking to take my skillset to the tech industry. 
 
 <!--
 **msilee85/msilee85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
