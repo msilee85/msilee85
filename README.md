@@ -2,9 +2,11 @@
 
 I'm a Software Engineer with a passion for problem solving and knowledge sharing as well as an experienced Project Manager with a demonstrated history of working in the biopharmaceutical industry. I am looking to take my skillset to the tech industry. 
 
-## Skills
+## Skills and Tools
 
 ### Front End
+[<img align="left" LinkedIn width ="22px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
+
 
 
 ### Back End
@@ -13,9 +15,14 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 
 
 ## Connect with me:
-[<img align="left" LinkedIn width ="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/msilee85]
+[<img align="left" LinkedIn width ="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 ### LinkedIn
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/msilee85
 
 
 <!--
