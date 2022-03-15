@@ -2,6 +2,20 @@
 
 I'm a Software Engineer with a passion for problem solving and knowledge sharing as well as an experienced Project Manager with a demonstrated history of working in the biopharmaceutical industry. I am looking to take my skillset to the tech industry. 
 
+### Skills
+
+## Front End
+
+## Back End
+
+## Tools
+
+
+### Contact
+
+## LinkedIn
+
+
 <!--
 **msilee85/msilee85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
