@@ -15,9 +15,8 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 
 
 ## Connect with me:
-![linkedin]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
-[Markdown - Link]()
-[<a name="linkedin" ><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>]
+
+[<a href=[linkedin] ><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>][linkedin]
 
 ### LinkedIn
 
