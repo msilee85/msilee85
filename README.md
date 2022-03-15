@@ -5,7 +5,7 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 ## Skills and Tools
 
 ### Front End
-[<img align="left" LinkedIn width ="22px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
+[<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
 
 
 
