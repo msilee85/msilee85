@@ -17,14 +17,14 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 ## Connect with me:
 ![linkedin]("https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
 [Markdown - Link]()
-[<a href=(www.linkedin.com/in/msilee85) ><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>]
+[<a name="linkedin" ><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>]
 
 ### LinkedIn
 
 
 
 
-[linkedin]: https://www.linkedin.com/in/msilee85
+[linkedin]: www.linkedin.com/in/msilee85
 
 
 <!--
