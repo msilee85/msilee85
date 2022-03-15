@@ -36,7 +36,7 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 
 ## Connect with me:
 
-<a href="www.linkedin.com/in/msilee85"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/msilee85)
 
 
 
