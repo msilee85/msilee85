@@ -5,7 +5,7 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 ## Skills
 
 ### Front End
-[https://camo.githubusercontent.com/00dd61af234113ddb479a30c93c80a4d4605f2c3cfb0588433c808f5eaa04cc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465]
+
 
 ### Back End
 
@@ -13,7 +13,7 @@ I'm a Software Engineer with a passion for problem solving and knowledge sharing
 
 
 ## Connect with me:
-[<img align="left" | LinkedIn" width ="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/msilee85]
+[<img align="left" LinkedIn width ="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/msilee85]
 
 ### LinkedIn
 
