@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a Software Engineer with a passion for problem solving and knowledge sharing as well as an experienced Project Manager with a demonstrated history of working in the biopharmaceutical industry. I am looking to take my skillset to the tech industry. 
 
-### Skills
+## Skills
 
-## Front End
+### Front End
 
-## Back End
+### Back End
 
-## Tools
+### Tools
 
 
-### Contact
+## Contact
 
-## LinkedIn
+### LinkedIn
 
 
 <!--
